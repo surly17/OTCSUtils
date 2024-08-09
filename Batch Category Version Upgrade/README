@@ -1,0 +1,8 @@
+This utility will process categories that are not at the latest version. It will update the version (not the metadata) of the category. 
+Each node will be identified by a supporting LiveReport.
+The inputs for the utility is; 
+    Category Node ID
+    Number of Nodes Items to process per batch.
+    Concurrent requests (Should not exceed the Content Server Total Thread Count)
+
+To avoid issues with 

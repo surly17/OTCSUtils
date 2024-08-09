@@ -1,0 +1,13 @@
+{
+    "mandatory": {
+        "ContentServerHost": "value1",
+        "username": "value2",
+        "password": "value3",
+        "CategoryNodeID": "value3"
+      
+    },
+    "optional": {
+        "NumberOfNodesToProcess": "5000",
+        "NumberOfThreadsProcessing": "5"
+    }
+}
